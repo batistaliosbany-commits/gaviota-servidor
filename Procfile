@@ -1,0 +1,1 @@
+web: gunicorn servidor_gaviota:app
